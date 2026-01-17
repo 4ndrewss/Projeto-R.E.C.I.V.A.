@@ -1,3 +1,17 @@
+# R.E.C.I.V.A. (Fork)
+
+> ⚠️ **Nota de Portfólio:** Este projeto foi desenvolvido em grupo durante o 2º período de ADS na CESAR School.
+> O repositório original pertence a [Arthur Ferreira](https://github.com/ArchangelLoer).
+
+## 👨‍💻 Minha Contribuição
+Neste projeto, atuei principalmente como Product Owner e Designer, sendo responsável por:
+
+- **Ideação e Concepção:** Proposta inicial da solução focada na validação da base de dados de vacinação.
+- **Gestão Ágil:** Organização e atualização constante do fluxo de trabalho e demandas da equipe utilizando o **Trello**.
+- **Prototipagem (UX/UI):** Criação dos sketches iniciais e desenvolvimento dos protótipos de baixa fidelidade.
+
+---
+
 # Projeto-R.E.C.I.V.A.
 
 # 🔎 R.E.C.I.V.A
